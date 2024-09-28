@@ -31,10 +31,10 @@ Use ```pip install requests``` (or ```pip3 install requests``` for python3) if y
 
 # Usage
 
-> Place any large list of URLs you want to check in a file called 'urls.txt'
-> Place 'urls.txt' and 'main.py' in the same directory
-> Open a terminal window and navigate to that directory
-> type ```python3 .\main.py``` and run the query. It will cycle through the list of domains
+* Place any large list of URLs you want to check in a file called 'urls.txt'
+* Place 'urls.txt' and 'main.py' in the same directory
+* Open a terminal window and navigate to that directory
+* type ```python3 .\main.py``` and run the query. It will cycle through the list of domains
 
 This program will visualy display it's results as well as create two new files, 'valid_urls.txt' and 'invalid_urls.txt'.
 
